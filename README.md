@@ -1,4 +1,4 @@
-+INTUNE is a 2D underwater action-adventure rhythm puzzle game where harmony is your magic.
+INTUNE is a 2D underwater action-adventure rhythm puzzle game where harmony is your magic.
 +You play an adventurer exploring the Sunken Conservatory to free the Mermaid Queen from a silent prism created by **The Detuner**.
 +
 +This repo includes:
