@@ -1,12 +1,3 @@
- (cd "$(git rev-parse --show-toplevel)" && git apply --3way <<'EOF' 
-diff --git a/README.md b/README.md
-new file mode 100644
-index 0000000000000000000000000000000000000000..32e86b289a540c449a176fe98adc82ff86be2ef8
---- /dev/null
-+++ b/README.md
-@@ -0,0 +1,27 @@
-+# INTUNE — GameMaker Game Concept Starter
-+
 +INTUNE is a 2D underwater action-adventure rhythm puzzle game where harmony is your magic.
 +You play an adventurer exploring the Sunken Conservatory to free the Mermaid Queen from a silent prism created by **The Detuner**.
 +
